@@ -46,8 +46,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Suwaathmi&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Suwaathmi's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suwaathmi&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" width="48%" />
+  <img src="https://img.shields.io/github/followers/Suwaathmi?label=Followers&style=for-the-badge&color=6A5ACD&labelColor=1a1b27&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/github/stars/Suwaathmi?label=Total%20Stars&style=for-the-badge&color=6A5ACD&labelColor=1a1b27&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Repos-13-6A5ACD?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/Contributions-130%2B-6A5ACD?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" />
 </p>
 
 <p align="center">
