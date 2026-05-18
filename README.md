@@ -35,9 +35,11 @@
 
 ## 🚀 Featured Project
 
-### 🤖 AI-Powered Scrutinization Engine
-> An intelligent engine that leverages **Artificial Intelligence** to automate and enhance the scrutinization process — analyzing, evaluating, and extracting meaningful insights from data with precision and speed.  
-> Built with a focus on **accuracy**, **scalability**, and **real-world applicability**.
+### 🔍 [AI-Powered Transaction Scrutinization Engine](https://github.com/Suwaathmi/AI_POWERED_TRANSACTION_SCRUTINIZATION_ENGINE)
+> Detects **credit card fraud in real-time** using machine learning by analyzing transaction patterns and generating **fraud probability scores**.
+> - 🧠 Provides **explainable AI decisions** to reduce false positives
+> - 🔄 Adapts to **evolving fraud tactics** over time
+> - 🏦 Designed for **financial institutions** seeking robust, intelligent fraud prevention
 
 ---
 
