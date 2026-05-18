@@ -35,9 +35,9 @@
 
 ## 🚀 Featured Project
 
-### 🌊 [Flood Relief Resource Allocation System](https://github.com/Suwaathmi/Flood-Relief-Resource-Allocation-System)
-> Streamlining flood relief operations to ensure **timely and effective resource distribution**.  
-> Built with **C#** to help coordinate and manage disaster relief efforts efficiently.
+### 🤖 AI-Powered Scrutinization Engine
+> An intelligent engine that leverages **Artificial Intelligence** to automate and enhance the scrutinization process — analyzing, evaluating, and extracting meaningful insights from data with precision and speed.  
+> Built with a focus on **accuracy**, **scalability**, and **real-world applicability**.
 
 ---
 
